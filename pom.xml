@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.myapp.employee</groupId>
 	<artifactId>Employee</artifactId>
+  <packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>employee</name>
 	<description>Spring boot crud operaition with H2 DB</description>
